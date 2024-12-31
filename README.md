@@ -1,4 +1,3 @@
-"# ImgBoost" 
 # Image Augmentation with Sequential and Parallel Processing
 
 This project demonstrates image augmentation using sequential, multiprocessing, and threading approaches in Python. The goal is to optimize performance for large datasets and measure the effectiveness of different approaches.
