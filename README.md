@@ -36,12 +36,12 @@ pdc_project/
     </div>
     <div>
         <h4>Performance Graph</h4>
-        <img src="graph.png" alt="Performance Graph" width="400">
+        <img src="graph.png" alt="Performance Graph" width="500">
     </div>
 </div>
 
 
----
+
 ---
 
 ## Dependencies
