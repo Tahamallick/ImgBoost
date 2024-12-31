@@ -14,7 +14,7 @@ This project demonstrates image augmentation using sequential, multiprocessing, 
 
 ## Project Structure
 ```
-pdc_project/
+main_directory/
 ├── data/               # Input and augmented datasets
 ├── src/                # Python scripts for augmentation
 │   ├── augment.py      # Core augmentation methods
