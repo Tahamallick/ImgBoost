@@ -78,23 +78,16 @@ python main.py
    - Processes each image one at a time.
    - Useful for small datasets but slow for large ones.
 - **Parallel**:
-   - Uses Python’s `multiprocessing` and 'threading' to process images concurrently.
+   - Uses Python’s `multiprocessing` and `threading`  to process images concurrently.
    - Ideal for CPU-bound tasks.
 
 ---
 
 
-## Future Improvements
-- Add support for GPU acceleration (e.g., using TensorFlow or PyTorch).
-- Extend the augmentation techniques (e.g., color adjustments, noise addition).
-- Optimize for distributed systems.
-
----
 
 
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+
 
 
 ---
