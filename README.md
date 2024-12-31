@@ -32,7 +32,7 @@ pdc_project/
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
     <div>
         <h4>Output Console</h4>
-        <img src="output.png" alt="Output Console" width="400">
+        <img src="output_image.png" alt="Output Console" width="400">
     </div>
     <div>
         <h4>Performance Graph</h4>
