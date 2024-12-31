@@ -38,7 +38,7 @@ The project compares sequential, parallel, and threaded augmentation:
 
 Here’s the output console of the performance comparison:
 
-![Performance Results](output-image.png)
+![Performance Results](output_image.png)
 
 
 ---
