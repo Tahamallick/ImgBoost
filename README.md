@@ -6,8 +6,7 @@ This project demonstrates image augmentation using sequential, multiprocessing, 
 
 ## Features
 - **Sequential Augmentation**: Processes images one by one.
-- **Parallel Augmentation**: Leverages multiprocessing for faster augmentation.
-- **Threaded Augmentation**: Utilizes threading for I/O-bound tasks.
+- **Parallel Augmentation**: Leverages multiprocessing and threading for faster augmentation and I/O-bound tasks.
 - **Performance Comparison**: Evaluates the time taken by each approach.
 
 ---
