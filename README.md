@@ -27,18 +27,18 @@ pdc_project/
 ```
 
 ---
+## Performance Results and Graph
 
-## Performance Results
-
-The project compares sequential, parallel, and threaded augmentation:
-| Method                     | Time Taken (seconds) |
-|----------------------------|----------------------|
-| Sequential Augmentation     | ~1008               |
-| Threaded Parallel Augmentation | ~480               |
-
-Here’s the output console of the performance comparison:
-
-![Performance Results](output_image.png)
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+    <div>
+        <h4>Output Console</h4>
+        <img src="output.png" alt="Output Console" width="400">
+    </div>
+    <div>
+        <h4>Performance Graph</h4>
+        <img src="graph.png" alt="Performance Graph" width="400">
+    </div>
+</div>
 
 
 ---
