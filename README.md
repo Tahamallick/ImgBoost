@@ -42,7 +42,20 @@ pdc_project/
 
 
 ---
+---
 
+## Dependencies
+These are the dependencies required for the project and their functions:
+1. **`matplotlib`**: Used to generate graphs for performance comparison.
+2. **`Pillow`**: For image manipulation like cropping, flipping, and rotating.
+3. **`multiprocessing`**: Enables parallel processing for faster image augmentation (standard library, no installation required).
+4. **`concurrent.futures`**: Provides threading support for I/O-bound tasks (standard library, no installation required).
+5. **`os`**: For file and directory operations (standard library, no installation required).
+6. **`time`**: For tracking execution times (standard library, no installation required).
+
+To install these dependencies, run:
+```bash
+pip install -r requirements.txt
 ## Setup and Usage
 
 ### 1. Clone the Repository
