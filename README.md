@@ -11,20 +11,11 @@ This project demonstrates image augmentation using sequential, multiprocessing, 
 - **Performance Comparison**: Evaluates the time taken by each approach.
 
 ---
+## Dataset
 
-## Project Structure
-```
-main_directory/
-├── data/               # Input and augmented datasets
-├── src/                # Python scripts for augmentation
-│   ├── augment.py      # Core augmentation methods
-│   ├── parallel.py     # Parallel processing script
-│   └── sequential.py   # Sequential processing script
-├── README.md           # Documentation
-├── requirements.txt    # Python dependencies
-├── main.py             # Main entry point
-└── .gitignore          # Files/folders to ignore in Git
-```
+The dataset required for this project is too large to be included directly in the repository. You can download it from the following link:
+
+[Download Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 ---
 ## Performance Results and Graph
